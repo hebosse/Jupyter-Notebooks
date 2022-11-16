@@ -12,4 +12,3 @@ Link3: https://hub.gke2.mybinder.org/user/hebosse-jupyter-notebooks-5toa50hf/lab
 Link4: https://hub.gke2.mybinder.org/user/hebosse-jupyter-notebooks-5toa50hf/lab/tree/Crossref_Funder%2CORCID_to_DOI_V1.ipynb 
 
 
-TAPIR: https://github.com/Project-TAPIR/pidgraph-notebooks
