@@ -1,4 +1,4 @@
-# Testlauf für die Jupyter-Notebooks
+# Testing Jupyter-Notebooks
 
 Logo:       [![Binder](https://mybinder.org/badge_logo.svg)]
 
