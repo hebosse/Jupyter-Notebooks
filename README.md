@@ -1,5 +1,4 @@
-# Testing Jupyter-Notebooks
-Testbinder for the new notebooks 
+# Testbinder for the new Jupyter Notebooks 
 
 Included are:
 - A Crossref search for DOIs with a funder via a list of ORCID IDs
